@@ -1,0 +1,70 @@
+1494789867702	geckodriver	INFO	Listening on 127.0.0.1:36929
+1494789868771	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1494789871992	Marionette	INFO	Listening on port 39879
+1494789872106	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 14527] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-tJ4O1e/firefox-53.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 346
+1494790418104	geckodriver	INFO	Listening on 127.0.0.1:35215
+1494790419151	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1494790422394	Marionette	INFO	Listening on port 45361
+1494790422506	Marionette	WARN	TLS certificate errors will be ignored for this session
+1494790460361	geckodriver	INFO	Listening on 127.0.0.1:41325
+1494790461411	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1494790464737	Marionette	INFO	Listening on port 44365
+1494790464876	Marionette	WARN	TLS certificate errors will be ignored for this session
+1494790479177	geckodriver	INFO	Listening on 127.0.0.1:56541
+1494790480231	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1494790483515	Marionette	INFO	Listening on port 44399
+1494790483588	Marionette	WARN	TLS certificate errors will be ignored for this session
+1494791695078	geckodriver	INFO	Listening on 127.0.0.1:46737
+1494791696133	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1494791699234	Marionette	INFO	Listening on port 41959
+1494791699350	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.234.1/web/js/jquery.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.234.1/web/js/playerex.js, line 194: unreachable code after return statement
+JavaScript warning: http://192.168.234.1/web/js/index.js, line 335: unreachable code after return statement
+JavaScript warning: http://192.168.234.1/web/js/index.js, line 615: unreachable code after return statement
+JavaScript warning: http://192.168.234.1/web/js/jquery.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.234.1/web/js/playerex.js, line 194: unreachable code after return statement
+JavaScript warning: http://192.168.234.1/web/js/index.js, line 335: unreachable code after return statement
+JavaScript warning: http://192.168.234.1/web/js/index.js, line 615: unreachable code after return statement
+1494791778919	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
+1494791784205	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1494791786544	geckodriver	INFO	Listening on 127.0.0.1:36737
+1494791787633	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1494791791005	Marionette	INFO	Listening on port 33103
+1494791791058	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.234.1/web/js/jquery.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.234.1/web/js/playerex.js, line 194: unreachable code after return statement
+JavaScript warning: http://192.168.234.1/web/js/index.js, line 335: unreachable code after return statement
+JavaScript warning: http://192.168.234.1/web/js/index.js, line 615: unreachable code after return statement
+1494791870734	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
+1494791910799	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1494792017623	geckodriver	INFO	Listening on 127.0.0.1:42147
+1494792018670	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1494792021786	Marionette	INFO	Listening on port 36491
+1494792021887	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.234.1/web/js/jquery.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.234.1/web/js/playerex.js, line 194: unreachable code after return statement
+JavaScript warning: http://192.168.234.1/web/js/index.js, line 335: unreachable code after return statement
+JavaScript warning: http://192.168.234.1/web/js/index.js, line 615: unreachable code after return statement
+1494793095111	geckodriver	INFO	Listening on 127.0.0.1:47301
+1494793096203	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1494793100156	Marionette	INFO	Listening on port 42105
+1494793100293	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.234.1/web/js/jquery.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.234.1/web/js/playerex.js, line 194: unreachable code after return statement
+JavaScript warning: http://192.168.234.1/web/js/index.js, line 335: unreachable code after return statement
+JavaScript warning: http://192.168.234.1/web/js/index.js, line 615: unreachable code after return statement
+1494794150366	geckodriver	INFO	Listening on 127.0.0.1:42779
+1494794151457	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1494794154682	Marionette	INFO	Listening on port 34241
+1494794154778	Marionette	WARN	TLS certificate errors will be ignored for this session
+1494794177277	geckodriver	INFO	Listening on 127.0.0.1:59587
+1494794178332	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1494794181412	Marionette	INFO	Listening on port 43107
+1494794181483	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.234.1/web/js/jquery.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.234.1/web/js/playerex.js, line 194: unreachable code after return statement
+JavaScript warning: http://192.168.234.1/web/js/index.js, line 335: unreachable code after return statement
+JavaScript warning: http://192.168.234.1/web/js/index.js, line 615: unreachable code after return statement
+1494794261088	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
